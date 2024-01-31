@@ -2,6 +2,10 @@
 
 Repositorio de Antonio Gil García para la FP Dual del curso 2023/2024.
 
+## Ejercicios realizados
+
+- **Acceso a Datos**: [API de operaciones CRUD](https://github.com/agilg31/nextorneos-api)
+
 ## Diario de trabajo
 
 | Periodo | Resumen |
